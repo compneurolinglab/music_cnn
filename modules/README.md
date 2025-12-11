@@ -1,6 +1,6 @@
 ## Modules
 
-This directory contains modular components used in the **Music-EEG Cognition** project. Each submodule performs a specific stage in the overall processing pipeline, including data preprocessing, feature extraction, transfer learning, and demo inference.
+This directory contains modular components used in the project. Each submodule performs a specific stage in the overall processing pipeline, including data preprocessing, feature extraction, transfer learning, and demo inference.
 
 ### Submodules
 
