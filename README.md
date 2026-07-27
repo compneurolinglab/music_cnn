@@ -6,25 +6,6 @@ Inspired by previous studies in auditory cognition and information theory, we in
 
 ---
 
-## Project Structure
-
-```bash
-music_eeg/
-├── data/                # Dataset and labels (syllable)
-│   ├── eeg/             # EEG data
-│   ├── label/           # JSON label mappings (syllable, genre)
-│   └── music_audio/     # Test audio stimuli (.mp3) and corresponding TextGrid annotations
-│
-├── modules/             # Core processing modules
-│   └── Demo/            # Jupyter notebooks for demo: TTS for dataset generation, prediction, feature extraction
-│
-├── docs/                # Documentation and architecture diagrams
-|
-└── README.md            # Project overview and instructions
-```
-
----
-
 ## Overview
 
 - AI-synthesized 2-minute Mandarin song: "智联家园"
